@@ -8,17 +8,19 @@ anyways I'm learning: Rust, Java, JavaScript, HTML and CSS (if anyones wants to 
 
 - 💞️ I’ll try to help on anything I can, I'm definitely not the best but, I'll surely dedicate myself into it.
 
-#
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/> victoremanuel945@gmail.com
+
+# ✌️ You can also reache me with:
 
 <div>
   <a href="https://discord.gg/TAjr8utAkQ" target="_blank">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"/></a>
   
-  <a href="victoremanuel945@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
-  
   <a href="https://api.whatsapp.com/send?phone=5551980598960&text=Github!" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"/></a>
+  
+  <a href="https://www.instagram.com/victolson/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>
   
 </div>
 
