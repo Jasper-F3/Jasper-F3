@@ -1,4 +1,4 @@
-##👋 Hi, I’m Jasper
+#👋 Hi, I’m Jasper
 
 - 💖 I love: programming (of course), videogames (favorite: RDR2), Movies/Series, Music (Metal in general but I like a bit of everything) and I really love History,
 and books about it.
