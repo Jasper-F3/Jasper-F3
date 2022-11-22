@@ -10,5 +10,5 @@ anyways I'm learning: Rust, Java, Python, JavaScript, HTML, CSS and programming 
 
 - 🤝 You can easily reach me with, Discord: Jasper#8111 or Email: victoremanuel945@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jasper-F3&show_icons=true&theme=omni)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jasper-F3&show_icons=true&theme=radical)
 
