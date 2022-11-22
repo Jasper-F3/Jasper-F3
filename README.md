@@ -35,11 +35,7 @@ anyways I'm learning: Rust, Java, JavaScript, HTML and CSS (if anyones wants to 
 <h1> 🧰 My ToolBox </h1>
 
 <div>
-
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="200" />
-          
-                  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="200" />              
 </div>
 
 .img{
