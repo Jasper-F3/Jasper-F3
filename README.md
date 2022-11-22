@@ -12,7 +12,9 @@ anyways I'm learning: Rust, Java, JavaScript, HTML and CSS (if anyones wants to 
 
 <div>
   <a href="https://discord.gg/TAjr8utAkQ" target="_blank">
-  <img src="![image](https://user-images.githubusercontent.com/86987590/203435343-4b2f7c81-1901-4d2d-99db-2b3291ac3b8b.png)" target="_blank"/></a>
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"/></a>
+  <a href="https://discord.gg/TAjr8utAkQ" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"/></a>
 </div>
 
 #
