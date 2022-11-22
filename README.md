@@ -8,9 +8,16 @@ anyways I'm learning: Rust, Java, JavaScript, HTML and CSS (if anyones wants to 
 
 - 💞️ I’ll try to help on anything I can, I'm definitely not the best but, I'll surely dedicate myself into it.
 
-- 🤝 You can easily reach me with, Discord: Jasper#8111 or Email: victoremanuel945@gmail.com
+<div>
+  <a href="https://discord.gg/TAjr8utAkQ" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"/></a>
+</div>
+
+#
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jasper-F3&show_icons=true&theme=radical) 
+
+#
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gfrdpmbbgke16vk7i0qmnys2r&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=gfrdpmbbgke16vk7i0qmnys2r&redirect=true) 
 
