@@ -11,3 +11,6 @@ anyways I'm learning: Rust, Java, JavaScript, HTML and CSS (if anyones wants to 
 - 🤝 You can easily reach me with, Discord: Jasper#8111 or Email: victoremanuel945@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jasper-F3&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+
