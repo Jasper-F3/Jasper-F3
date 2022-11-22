@@ -21,6 +21,12 @@ anyways I'm learning: Rust, Java, JavaScript, HTML and CSS (if anyones wants to 
   
   <a href="https://www.instagram.com/victolson/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>
+
+  <a href="https://open.spotify.com/user/gfrdpmbbgke16vk7i0qmnys2r" target="_blank">
+  <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"/></a>
+
+  <a href="https://www.linkedin.com/in/victor-emanuel-mello-835602216/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
   
 </div>
 
