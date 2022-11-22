@@ -4,7 +4,7 @@
 and books about it.
 
 - 🐣 I’m currently learning a lot of things but I don't consider myself a professional on any of it (probably because I'm trying to learn too much lol), 
-anyways I'm learning: Rust, Java, Python, JavaScript, HTML, CSS and programming logic in general (if anyones wants to help me learning something I shall gadly accept).
+anyways I'm learning: Rust, Java, JavaScript, HTML and CSS (if anyones wants to help me learning something I shall gadly accept).
 
 - 💞️ I’ll try to help on anything I can, I'm definitely not the best but, I'll surely dedicate myself into it.
 
