@@ -35,7 +35,9 @@ anyways I'm learning: Rust, Java, JavaScript, HTML and CSS (if anyones wants to 
 <h1> 🧰 My ToolBox </h1>
 
 <div>
-<i class="devicon-mysql-plain colored"></i>         
+
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+                  
 </div>
 
 
