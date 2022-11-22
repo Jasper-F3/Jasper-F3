@@ -12,5 +12,5 @@ anyways I'm learning: Rust, Java, JavaScript, HTML and CSS (if anyones wants to 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jasper-F3&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gfrdpmbbgke16vk7i0qmnys2r&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=gfrdpmbbgke16vk7i0qmnys2r&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gfrdpmbbgke16vk7i0qmnys2r&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=gfrdpmbbgke16vk7i0qmnys2r&redirect=true)
