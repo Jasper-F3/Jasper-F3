@@ -13,7 +13,9 @@ anyways I'm learning: Rust, Java, JavaScript, HTML and CSS (if anyones wants to 
 <div>
   <a href="https://discord.gg/TAjr8utAkQ" target="_blank">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"/></a>
-  <a href="https://discord.gg/TAjr8utAkQ" target="_blank">
+  <a href="victoremanuel945@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"/></a>
+  <a href="https://api.whatsapp.com/send?phone=5551980598960&text=Github!" target="_blank">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"/></a>
 </div>
 
