@@ -30,8 +30,6 @@ anyways I'm learning: Rust, Java, JavaScript, HTML and CSS (if anyones wants to 
   
 </div>
 
-#
-
 <h1> 🧰 My ToolBox </h1>
 
 <div>
