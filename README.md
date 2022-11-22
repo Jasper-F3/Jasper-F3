@@ -12,7 +12,7 @@ anyways I'm learning: Rust, Java, JavaScript, HTML and CSS (if anyones wants to 
 
 <div>
   <a href="https://discord.gg/TAjr8utAkQ" target="_blank">
-  <img src="![image](https://user-images.githubusercontent.com/86987590/203434686-f6cc9b15-98be-4621-86b0-a3893edc4b5b.png)" target="_blank"/></a>
+  <img src="[![image](https://user-images.githubusercontent.com/86987590/203434686-f6cc9b15-98be-4621-86b0-a3893edc4b5b.png)](https://icons8.com/icon/65646/discord-bubble)" target="_blank"/></a>
 </div>
 
 #
