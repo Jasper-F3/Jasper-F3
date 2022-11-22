@@ -8,9 +8,11 @@ anyways I'm learning: Rust, Java, JavaScript, HTML and CSS (if anyones wants to 
 
 - 💞️ I’ll try to help on anything I can, I'm definitely not the best but, I'll surely dedicate myself into it.
 
+#
+
 <div>
   <a href="https://discord.gg/TAjr8utAkQ" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"/></a>
+  <img src="![image](https://user-images.githubusercontent.com/86987590/203434686-f6cc9b15-98be-4621-86b0-a3893edc4b5b.png)" target="_blank"/></a>
 </div>
 
 #
