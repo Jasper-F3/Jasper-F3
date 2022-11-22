@@ -30,7 +30,7 @@ anyways I'm learning: Rust, Java, JavaScript, HTML and CSS (if anyones wants to 
   
 </div>
 
-<h1> 🧰 My ToolBox </h1>
+<h1> <center>🧰 My ToolBox</center> </h1>
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="100"/>
