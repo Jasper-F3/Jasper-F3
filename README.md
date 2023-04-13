@@ -46,7 +46,7 @@ anyways I'm learning: Rust, Java, JavaScript, HTML and CSS (if anyones wants to 
 
 # 🔮 My Current Status
 
-[[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Jasper-F3=Jasper-F3)](https://github.com/anuraghazra/github-readme-stats)](https://github-readme-stats.vercel.app/api?Jasper-F3={username}&theme=blue-green)
+[[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Jasper-F3=Jasper-F3)](https://github.com/anuraghazra/github-readme-stats)](https://github-readme-stats.vercel.app/api?Jasper-F3={Jasper-F3}&theme=blue-green)
 
 # 🎵 Spotify Track Now (why not?)
 
