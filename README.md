@@ -31,7 +31,9 @@ anyways I'm learning: Rust, Java, JavaScript, HTML and CSS (if anyones wants to 
 </div>
 
 <div>
+  
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jasper-F3)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 <h1> <center>🧰 My ToolBox</center> </h1>
