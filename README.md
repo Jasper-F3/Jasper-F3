@@ -10,7 +10,7 @@ anyways I'm learning: Rust, Java, JavaScript, HTML and CSS (if anyones wants to 
 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/> victoremanuel945@gmail.com
 
-# ✌️ You Can Also Reache Me With:
+<h1 align = "center"> ✌️ You Can Also Reache Me With:</h1>
 
 
 
@@ -33,13 +33,13 @@ anyways I'm learning: Rust, Java, JavaScript, HTML and CSS (if anyones wants to 
 </div>
 <div >
   
-<h1>😊 My WakaTime Status </h1>
+<h1 align = "center">😊 My WakaTime Status </h1>
   
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JasperF3)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
-<h1 > 🧰 My ToolBox</center> </h1>
+<h1 align = "center"> 🧰 My ToolBox</center> </h1>
 
 <div  >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="100"/>
@@ -53,9 +53,13 @@ anyways I'm learning: Rust, Java, JavaScript, HTML and CSS (if anyones wants to 
             
 </div >
 
-<div >
+<div>
+  
+</div>
 
-<h1># 🎵 Spotify Track Now (why not?) </h1>
+<div align="center">
+
+<h1 align = "center">🎵 Spotify Track Now (why not?) </h1>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gfrdpmbbgke16vk7i0qmnys2r&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=gfrdpmbbgke16vk7i0qmnys2r&redirect=true) 
 
