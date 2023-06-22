@@ -8,13 +8,13 @@ anyways I'm learning: Rust, Java, JavaScript, HTML and CSS (if anyones wants to 
 
 - 💞️ I’ll try to help on anything I can, I'm definitely not the best but, I'll surely dedicate myself into it.
 
-<img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/> victoremanuel945@gmail.com
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/> victoremanuel945@gmail.com
 
 # ✌️ You Can Also Reache Me With:
 
-<h1> </h1>
 
-<div align="center">
+
+<div >
   <a href="https://discord.gg/TAjr8utAkQ" target="_blank">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"/></a>
   
@@ -31,16 +31,17 @@ anyways I'm learning: Rust, Java, JavaScript, HTML and CSS (if anyones wants to 
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
   
 </div>
-
-<div align="center">
+<div >
+  
+<h1>😊 My WakaTime Status </h1>
   
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JasperF3)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
-<h1 align="center"> 🧰 My ToolBox</center> </h1>
+<h1 > 🧰 My ToolBox</center> </h1>
 
-<div align="center" >
+<div  >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="100"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="100"/>
@@ -52,8 +53,9 @@ anyways I'm learning: Rust, Java, JavaScript, HTML and CSS (if anyones wants to 
             
 </div >
 
-<div align="center">
-# 🎵 Spotify Track Now (why not?)
+<div >
+
+<h1># 🎵 Spotify Track Now (why not?) </h1>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gfrdpmbbgke16vk7i0qmnys2r&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=gfrdpmbbgke16vk7i0qmnys2r&redirect=true) 
 
