@@ -31,11 +31,11 @@ anyways I'm learning: Rust, Java, JavaScript, HTML and CSS (if anyones wants to 
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
   
 </div>
-<div >
+<div align = "center" >
   
 <h1 align = "center">😊 My WakaTime Status </h1>
   
-<div align = "center"> [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JasperF3)](https://github.com/anuraghazra/github-readme-stats) </div> 
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JasperF3)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
