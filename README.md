@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Hi, I’m Jasper</h1>
 
-- 💖 I love: programming (of course), videogames (favorite: RDR2), Movies/Series, Music (Metal in general but I like a bit of everything) and I really love History,
+- 💖 I love: programming (of course), videogames (favorite: RDR2), Movies/Series, Music (Rock in general but I like a bit of everything) and I really love History,
 and books about it.
 
 - 🐣 I’m currently learning a lot of things but I don't consider myself a professional on any of it (probably because I'm trying to learn too much lol), 
